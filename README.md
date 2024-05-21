@@ -1,4 +1,5 @@
-## Hi there 👋 I am Radhe Ravi,an aspiring Software Engineer.I have a strong background in Development and am always looking for new challenges and opportunities to learn and grow. I am a Developer and enjoy Writing Poems in my free time. I am excited to bring my skills to a dynamic and innovative team. If you are looking for a Developer who is passionate about Development, I would love to hear from you. Thank you for visiting my Git Hub. I look forward to connecting with you.
+## Hi there 👋 I am Radhe Ravi
+An aspiring Software Engineer.I have a strong background in Development and am always looking for new challenges and opportunities to learn and grow. I am a Developer and enjoy Writing Poems in my free time. I am excited to bring my skills to a dynamic and innovative team. If you are looking for a Developer who is passionate about Development, I would love to hear from you. Thank you for visiting my Git Hub. I look forward to connecting with you.
 
 <!--
 **RadheRavi3021/RadheRavi3021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
