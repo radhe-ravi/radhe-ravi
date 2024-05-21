@@ -14,8 +14,7 @@
     <td>- 🌱 I’m currently learning <strong>DataStructures and Algorithms</strong></td>
     </tr>
   <tr>
-    <td>- 💬 Ask me about <strong>ReactJS, HTML, CSS, and NodeJS</strong></td>
-    <td>- 📄 Check my resume <a href="https://github.com/radhe-ravi/portfolio/blob/master/assests/resume.pdf">here</a></td>
+    <td>- 💬 Ask me about <strong>Angular,React js,Spring boot and NodeJS</strong></td>
   </tr>
   <tr>
     <td>- 📽️ Gave Workshop on <strong>testing API's with POSTMAN</strong>
@@ -45,6 +44,10 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" > 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="React">
+   <br><br><br>
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf)
    <br><br><br>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" > 
