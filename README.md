@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 </div>
 <div id="languages" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadheRavi3021&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radhe-ravi&layout=compact&theme=vision-friendly-dark)
 
 </div>
 
 <div id="stats" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RadheRavi3021&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=radhe-ravi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
 
