@@ -16,16 +16,12 @@
   <tr>
     <td>- 💬 Ask me about <strong>Angular,React js,Spring boot and NodeJS</strong></td>
   </tr>
-  <tr>
-    <td>- 📽️ Gave Workshop on <strong>testing API's with POSTMAN</strong>
-      <br>
-  </tr>
 </table>
 <br>
 <h3 align="left">Find me on Internet🌍🌏🌎</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/radhe-ravi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_.uttam_.22/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ravi_radhey_02/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://leetcode.com/u/radheravi01/" target="_blank"> <img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /></a>
  </div>
 <br> 
@@ -41,13 +37,13 @@
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <br><br><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"> 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" > 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" alt="Angular">
    <br><br><br>
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf)
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring boot">
+  
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate" alt="Hibernate">
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf" alt="Thymeleaf">
    <br><br><br>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" > 
